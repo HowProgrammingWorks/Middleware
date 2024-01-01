@@ -1,2 +1,1 @@
-# Middleware
-Middleware antipattern
+# Middleware antipattern
